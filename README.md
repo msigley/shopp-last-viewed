@@ -1,0 +1,1 @@
+# shopp-last-viewed
